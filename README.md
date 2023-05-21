@@ -39,3 +39,5 @@ de lay lai du lieu ban dau của 1 file
 dùng git checkout tenfile
 restore: git restore tenfile
 git store dể lấy lại dữ liêu ở khu vực change
+
+git commit 2 revert push
