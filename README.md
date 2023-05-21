@@ -47,3 +47,5 @@ create branch beta_1 from beta
 commit 2 branch beta_1 from beta
 commit 1 beta cha
 commit 2 beta cha
+
+rename branch beta_1 to beta_2
