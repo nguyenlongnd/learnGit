@@ -44,3 +44,4 @@ git store dể lấy lại dữ liêu ở khu vực change
 commit 4 revert commit 2 
 
 create branch beta_1 from beta
+commit 2 branch beta_1 from beta
