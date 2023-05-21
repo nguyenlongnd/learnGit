@@ -34,3 +34,11 @@ const i = 1000;
 ```bash
 git log
 ```
+
+de lay lai du lieu ban dau của 1 file
+3 cách: dùng interface
+dùng git checkout tenfile
+restore: git restore tenfile
+git store dể lấy lại dữ liêu ở khu vực change
+
+commit 4 revert commit 2 
