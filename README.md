@@ -45,3 +45,5 @@ commit 4 revert commit 2
 
 create branch beta_1 from beta
 commit 2 branch beta_1 from beta
+commit 1 beta cha
+commit 2 beta cha
