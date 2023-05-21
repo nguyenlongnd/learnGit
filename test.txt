@@ -1,0 +1,2 @@
+nếu ở trang thái staging or commit phải dùng git reset và nó sẽ đưa code về trạng thái changes
+
