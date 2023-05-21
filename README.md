@@ -42,3 +42,5 @@ restore: git restore tenfile
 git store dể lấy lại dữ liêu ở khu vực change
 
 commit 4 revert commit 2 
+
+commit 1 beta cha
