@@ -41,3 +41,5 @@ restore: git restore tenfile
 git store dể lấy lại dữ liêu ở khu vực change
 
 git commit 2 revert push
+
+git commit 3 revert push
