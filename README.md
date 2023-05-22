@@ -49,4 +49,4 @@ commit 1 beta cha
 commit 2 beta cha
 
 rename branch beta_1 to beta_2
-commit 2  beta_1 to beta_2
+
