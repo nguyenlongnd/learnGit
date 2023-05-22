@@ -51,3 +51,5 @@ commit 2 beta cha
 rename branch beta_1 to beta_2
 
 commit 3 beta branch
+
+commit beta_2 branch
