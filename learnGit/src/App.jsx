@@ -11,7 +11,6 @@ function App() {
   return (
     <>
       <h1>day la the h1</h1>
-      <BranchA/>
       <BranchB/>
     </>
   )
